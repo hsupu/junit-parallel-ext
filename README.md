@@ -33,19 +33,19 @@ Mark a method as a parallel test case, and the number of threads is set by param
 
 *Optional* Because the annotation is repeatable, you can distinct different test case by specifying tags.
 
-`@BeforeThread("threadedMethodName")`
+`@BeforeThread("targetThreadedTestCaseMethodName")`
 
 Run before **every thread** start.
 
-`@AfterThread("threadedMethodName")`
+`@AfterThread("targetThreadedTestCaseMethodName")`
 
 Run after **every thread** finished.
 
-`@BeforeCase("threadedMethodName")`
+`@BeforeCase("targetTestCaseMethodName")`
 
 Run before target test case start. After @Before.
 
-`@AfterCase("threadedMethodName")`
+`@AfterCase("targetTestCaseMethodName")`
 
 Run after target test case finished. Before @After.
 
