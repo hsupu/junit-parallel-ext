@@ -4,12 +4,12 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>xp.wheel</groupId>
-    <artifactId>parallel-tester</artifactId>
+    <groupId>cc.xpcas</groupId>
+    <artifactId>junit-parallel-ext</artifactId>
     <version>0.1</version>
     <name>Xu Pu</name>
     <description>A JUnit extension to enable parallel tests.</description>
-    <url>https://github.com/tridays/parallel-tester</url>
+    <url>https://github.com/tridays/junit-parallel-ext</url>
     <licenses>
         <license>
             <name>The MIT License (MIT)</name>
@@ -19,7 +19,7 @@
 
     <issueManagement>
         <system>GitHub Issue</system>
-        <url>https://github.com/tridays/parallel-tester/issues</url>
+        <url>https://github.com/tridays/junit-parallel-ext/issues</url>
     </issueManagement>
 
     <developers>
@@ -28,7 +28,6 @@
             <email>i@xupu.name</email>
         </developer>
     </developers>
-
 
     <packaging>jar</packaging>
 

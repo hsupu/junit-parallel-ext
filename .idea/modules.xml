@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/xp.wheel.parallelTester.iml" filepath="$PROJECT_DIR$/xp.wheel.parallelTester.iml" />
+      <module fileurl="file://$PROJECT_DIR$/junit-parallel-ext.iml" filepath="$PROJECT_DIR$/junit-parallel-ext.iml" />
     </modules>
   </component>
 </project>

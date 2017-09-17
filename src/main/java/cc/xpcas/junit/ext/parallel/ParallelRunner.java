@@ -1,4 +1,4 @@
-package xp.wheel.paralleltester;
+package cc.xpcas.junit.ext.parallel;
 
 import java.util.*;
 import java.util.stream.*;
@@ -9,6 +9,7 @@ import org.junit.runners.model.FrameworkMethod;
 import org.junit.runners.model.InitializationError;
 import org.junit.runners.model.Statement;
 
+import cc.xpcas.junit.ext.parallel.core.*;
 import xp.wheel.paralleltester.core.*;
 
 /**

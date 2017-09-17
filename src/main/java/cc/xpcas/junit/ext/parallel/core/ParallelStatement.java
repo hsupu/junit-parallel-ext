@@ -1,4 +1,4 @@
-package xp.wheel.paralleltester.core;
+package cc.xpcas.junit.ext.parallel.core;
 
 /**
  * @author xp

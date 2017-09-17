@@ -1,10 +1,11 @@
-package xp.wheel.paralleltester.test;
+package cc.xpcas.junit.ext.parallel.test;
 
 import java.util.*;
 import java.util.concurrent.*;
 
 import org.junit.runner.RunWith;
 
+import cc.xpcas.junit.ext.parallel.*;
 import xp.wheel.paralleltester.*;
 
 /**

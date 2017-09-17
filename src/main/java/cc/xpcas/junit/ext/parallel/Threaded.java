@@ -1,4 +1,4 @@
-package xp.wheel.paralleltester;
+package cc.xpcas.junit.ext.parallel;
 
 import java.lang.annotation.*;
 
