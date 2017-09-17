@@ -13,8 +13,8 @@ Maven (not available yet):
 
 ```xml
 <dependency>
-    <groupId>xp.wheel</groupId>
-    <artifactId>parallel-tester</artifactId>
+    <groupId>cc.xpcas</groupId>
+    <artifactId>junit-parallel-ext</artifactId>
     <version>0.1</version>
 </dependency>
 ```

@@ -6,12 +6,14 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="junit-parallel-ext" />
         <module name="xp.wheel.parallelized-test" />
         <module name="xp.wheel.parallelRunner" />
         <module name="xp.wheel.parallelTester" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="1.8">
+      <module name="junit-parallel-ext" target="1.8" />
       <module name="xp.wheel.parallelized-test" target="1.8" />
       <module name="xp.wheel.parallelRunner" target="1.8" />
       <module name="xp.wheel.parallelTester" target="1.8" />
